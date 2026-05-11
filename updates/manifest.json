@@ -1,1 +1,1 @@
-{"version":"0.1.8","url":"https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.8/Team-MOA-win.zip","notes":"Reminder scheduler reliability fix and Unicode-safe local storage to prevent Korean text corruption"}
+{"version":"0.1.9","url":"https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.9/Team-MOA-win.zip","notes":"Admin monitoring now shows each online user app version and update-needed status"}
