@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.13/Team-MOA-win.zip",
-    "version":  "0.1.13",
-    "notes":  "리마인드 시간 파싱 수정: 오후 16시 50분, 오후 17시 50분, 오늘 오후 5시 20분 같은 명시 시간과 3분 뒤 같은 상대 시간을 구분"
+    "url":  "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.14/Team-MOA-win.zip",
+    "version":  "0.1.14",
+    "notes":  "자동 업데이트 재확인 개선: 앱 실행 중에도 10분마다 새 버전을 확인하고 자동 업데이트를 실행"
 }
