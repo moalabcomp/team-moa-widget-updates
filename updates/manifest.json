@@ -1,5 +1,1 @@
-{
-    "url":  "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.5/Team-MOA-win.zip",
-    "version":  "0.1.5",
-    "notes":  "외부 PC 로그인 수정: 번들 직원 초대코드 복구, 직원 이름 첫 로그인 보정, 관리자 기본 계정 보호, Google /users 서버 코드 포함"
-}
+{"version":"0.1.5","url":"https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.5/Team-MOA-win.zip","notes":"External login fix: bundled invite codes, employee name repair, default admin protection, Google users backend included"}
