@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.17/Team-MOA-win.zip",
-    "version":  "0.1.17",
-    "notes":  "직원 접속이 업데이트 전에 강제 로그아웃되는 문제를 수정했습니다. 접속 현황과 자동 업데이트가 먼저 정상 동작합니다."
+    "url":  "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.18/Team-MOA-win.zip",
+    "version":  "0.1.18",
+    "notes":  "전원 모양 로그아웃 버튼 추가, 직원 관리 창 선택 삭제 기능 추가."
 }
