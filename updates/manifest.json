@@ -1,1 +1,5 @@
-{"version":"0.1.10","url":"https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.10/Team-MOA-win.zip","notes":"Admin update monitor now shows latest version, update-needed users, and version-unknown users"}
+{
+    "url":  "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.11/Team-MOA-win.zip",
+    "version":  "0.1.11",
+    "notes":  "직원 등록/삭제 안정화, 기존 접속자 초대코드 이름 복구, 전체 사용자 업데이트 확인 버튼 추가"
+}
