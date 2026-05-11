@@ -1,5 +1,5 @@
 {
-  "version": "0.1.3",
-  "url": "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.3/Team-MOA-win.zip",
-  "notes": "자동실행 경로 수정, 시작프로그램/레지스트리 등록 안정화, 업데이트 버전 루프 방지"
+  "version": "0.1.4",
+  "url": "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.4/Team-MOA-win.zip",
+  "notes": "QA 수정: 자동실행 중복 등록 제거, 이전 로그인 세션 복구, 리마인더 5분 스누즈, 수동 업데이트 버튼, 반응형/청산맵/메모 헤더 개선"
 }
