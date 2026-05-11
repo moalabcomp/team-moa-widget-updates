@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4",
-  "url": "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.4/Team-MOA-win.zip",
-  "notes": "QA 수정: 자동실행 중복 등록 제거, 이전 로그인 세션 복구, 리마인더 5분 스누즈, 수동 업데이트 버튼, 반응형/청산맵/메모 헤더 개선"
+    "url":  "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.5/Team-MOA-win.zip",
+    "version":  "0.1.5",
+    "notes":  "외부 PC 로그인 수정: 번들 직원 초대코드 복구, 직원 이름 첫 로그인 보정, 관리자 기본 계정 보호, Google /users 서버 코드 포함"
 }
