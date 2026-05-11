@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.12/Team-MOA-win.zip",
-    "version":  "0.1.12",
-    "notes":  "트레이/백그라운드 실행 상태에서 창 복구 안정화: 트레이 클릭, 재실행, 닫기/최소화 후 기존 창 복원 개선"
+    "url":  "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.13/Team-MOA-win.zip",
+    "version":  "0.1.13",
+    "notes":  "리마인드 시간 파싱 수정: 오후 16시 50분, 오후 17시 50분, 오늘 오후 5시 20분 같은 명시 시간과 3분 뒤 같은 상대 시간을 구분"
 }
