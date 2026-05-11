@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.15/Team-MOA-win.zip",
-    "version":  "0.1.15",
-    "notes":  "최근 수익 이력 종목에도 회사 로고와 종목코드를 표시합니다."
+    "url":  "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.16/Team-MOA-win.zip",
+    "version":  "0.1.16",
+    "notes":  "구버전 공지함에 직원 동기화용 내부 메시지가 노출되지 않도록 시스템 공지 대상을 숨김 처리했습니다."
 }
