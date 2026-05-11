@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.14/Team-MOA-win.zip",
-    "version":  "0.1.14",
-    "notes":  "자동 업데이트 재확인 개선: 앱 실행 중에도 10분마다 새 버전을 확인하고 자동 업데이트를 실행"
+    "url":  "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.15/Team-MOA-win.zip",
+    "version":  "0.1.15",
+    "notes":  "최근 수익 이력 종목에도 회사 로고와 종목코드를 표시합니다."
 }
